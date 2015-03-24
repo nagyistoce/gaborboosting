@@ -1,0 +1,1 @@
+A scientific program applied on Face Recognition with Gabor Wavelet and AdaBoost Algorithm
